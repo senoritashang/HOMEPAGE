@@ -1,0 +1,92 @@
+<html>
+
+	<head>
+		<h1><p align=center><font color=Blue size=8 face="Impact">What is Depressive Disorder?</p> </font>
+</u></h1> </font>
+	</head>
+
+<body background="blue.jpg">
+<style>
+body{
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+	background-size: cover;
+}
+</style>
+
+<font color= Dark Pink size=36 face="Arial Black"><center> UNDERSTANDING DEPRESSION:Breaking the Stigma and Finding Hope </font> </center>
+<center><img src="dif.gif" width="300" height="300"> </center>
+
+
+<h1> DEPRESSION </h1> 
+
+<p>
+
+<p> Depression is a common and serious mental health condition characterized by persistent and profound feelings of sadness, hopelessness, and a loss of interest or pleasure in activities that were once enjoyable. It goes beyond normal fluctuations in mood and can significantly impact a person's thoughts, emotions, and physical well-being. Depression often comes with a variety of symptoms, including changes in appetite, sleep disturbances, fatigue, and difficulty concentrating. It can affect a person's ability to function in daily life, leading to a decreased quality of life if left untreated. </p>
+
+<p> Addressing depression is of utmost importance as it directly impacts the well-being of individuals and society as a whole. Depression can rob individuals of their joy, disrupt their relationships, and hinder their ability to function in daily life. It's not just a mental health issue; it can also have physical health consequences and increase the risk of other chronic illnesses. Moreover, untreated depression can lead to severe consequences, including self-harm and suicide. By addressing depression through early intervention and appropriate treatment, we can significantly improve people's lives, reduce the economic and social burden, and foster a more compassionate and understanding society regarding mental health challenges. </p> <br>
+
+<h2> DEPRESSIVE DISORDER</h2> 
+<p> This is a clinical term used to describe a specific category of mental health disorders characterized by persistent and severe symptoms of depression. These disorders include conditions such as Major Depressive Disorder (MDD), Persistent Depressive Disorder (Dysthymia), and Bipolar Disorder (which includes depressive episodes along with manic or hypomanic episodes). </p> <br>
+
+
+<h3> <p align=center><font color=Black size=8 face="Impact"> Types of Depressive Disorder </h3> </font> 
+<hr width=1500 height=1500 color=black no shade> 
+<p>
+<font color=Black size=5 face="Book Antiqua"> It's important to note that these are general definitions, and depression can manifest differently in each individual. <br>
+The diagnosis and treatment of depression should be done by a qualified mental health professional. </font>
+<hr width=1500 height=1500 color=black no shade>
+</p>
+
+
+<p>
+<table border="1">
+<tr>
+<th> <p align=center><font color=Black size=5 face="Arial">  Major Depressive Disorder (MDD)</th>
+<th><p align=center><font color=Black size=4 face="Arial">MDD, often referred to as clinical depression, is a severe and prolonged form of depression. It is characterized by persistent and intense feelings of sadness, hopelessness, and a loss of interest or pleasure in daily activities. Major Depressive Disorder can disrupt a person's ability to function in daily life and may be accompanied by physical symptoms such as changes in appetite and sleep patterns.</th>
+<th> <p align=center><font color=Black size=5 face="Arial">Persistent Depressive Disorder (Dysthymia)</th> 
+<th> <p align=center><font color=Black size=3 face="Arial">Dysthymia is a type of chronic depression characterized by long-lasting, milder symptoms of depression. Individuals with dysthymia may experience persistent feelings of low mood, low self-esteem, and a general sense of hopelessness for at least two years or more. While the symptoms are less severe than MDD, they can still significantly impact one's quality of life.</th>
+<table border="2">
+<tr>
+<th> <p align=center><font color=Black size=5 face="Arial"> Bipolar Disorder </th>
+<th><p align=center><font color=Black size=4 face="Arial">Bipolar disorder, previously known as manic depression, involves extreme mood swings between manic episodes (elevated mood, high energy) and depressive episodes (low mood, sadness). This disorder can disrupt daily life, relationships, and decision-making, as individuals experience intense shifts in mood and energy levels.</th>
+<th> <p align=center><font color=Black size=5 face="Arial"> Seasonal Affective Disorder (SAD): </th>
+<th><p align=center><font color=Black size=4 face="Arial"> SAD is a type of depression that typically occurs during specific seasons, most commonly in the fall and winter when there is less natural sunlight. Individuals with SAD experience symptoms like low energy, oversleeping, and weight gain during these months and typically feel better in spring and summer..</th>
+<table border="3">
+<tr>
+<th> <p align=center><font color=Black size=5 face="Arial"> Postpartum Depression</th>
+<th><p align=center><font color=Black size=4 face="Arial">Postpartum depression is a form of depression that affects some women after giving birth. It is characterized by symptoms such as intense sadness, anxiety, and fatigue and can make it challenging for new mothers to care for themselves and their. </th>
+<th> <p align=center><font color=Black size=5 face="Arial"> Atypical Depression</th>
+<th><p align=center><font color=Black size=4 face="Arial">Atypical depression is characterized by mood reactivity, meaning that a person's mood can improve in response to positive events. It often includes symptoms like increased appetite, weight gain, excessive sleep, and a feeling of heaviness in the limbs. Atypical depression can be challenging to diagnose and treat due to its unique features. </th> 
+
+<p>
+<h4> <p align=center><font color=Dark Purple size=7 face="Book Antiqua"> "You say you're 'depressed' – all I see is resilience. You are allowed to feel messed up and inside out. It doesn't mean you're defective – it just means you're human." — David Mitchell </h4> </font> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
